@@ -1,0 +1,120 @@
+flag by itself:
+
+able bodied
+able-bodied
+adult living
+adults only
+agile
+alcoholic
+bachelor
+catholic
+caucasian
+chicano
+child
+couples
+crippled
+deaf
+drinker
+employed
+empty nest
+ethnic
+exclusive
+female
+fisherman
+gay
+gender
+gentleman
+grandpa
+handyman
+latino
+lesbian
+male
+man
+married
+membership approval
+men
+mens
+men's
+mental
+mormon
+mosque
+mother in law
+mother-in-law
+nanny
+nationality
+newly weds
+newly-weds
+non drinker
+non-drinker
+non-smoker
+older person
+one child
+one person
+physically fit
+quiet tenant
+retarded
+seasonal workers
+section 8
+shrine
+social security insurance
+ssi
+student
+synagogue
+temple
+two people
+unemployed
+walking distance to
+
+only flag if not followed by accessable:
+
+handicapped
+
+only flag if not preceeded by for, for the, or busy:
+
+executive
+
+
+flag if followed or preceeded by one of the words in the next list:
+
+active
+african
+asian
+black
+blind
+chinese
+colored
+hispanic
+indian
+irish
+jewish
+mature
+mexican
+oriental
+polish
+puerto rican
+retire
+retired
+retiree
+single
+stable
+white
+
+the next list:
+
+people
+person
+community
+neighborhood
+friendly
+area
+subdivision
+crowd
+family
+folk
+customer
+individual
+association
+district
+section
+suburb
+territory
