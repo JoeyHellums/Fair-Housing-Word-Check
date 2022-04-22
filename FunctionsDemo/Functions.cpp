@@ -91,3 +91,18 @@ void TestExecutiveWord(string str)
     
     PrintMatches(str,reg);
 }
+
+void GetFile(string& str)
+{
+    	ifstream myfile("input.txt");
+	if (myfile.is_open())
+	{
+		stringstream Buffer;
+        Buffer << myfile.rdbuf();
+        str = Buffer.str();
+		
+		myfile.close();
+	}
+
+	else cout << "Unable to open file";
+}

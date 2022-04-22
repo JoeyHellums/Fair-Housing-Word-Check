@@ -23,6 +23,7 @@ void TestBeforeWord(string str, string word, string second);
 void TestAfterWord(string str, string word, string second);
 void TestHandicappedWord(string str);
 void TestExecutiveWord(string str);
+void GetFile(string& str);
 
 
 #endif // !_FUNCTIONS_H

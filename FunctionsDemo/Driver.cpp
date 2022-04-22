@@ -29,6 +29,9 @@ int main()
     const string EthnicTestWords[22] = {"active","african","asian","black","blind","chinese","colored","hispanic","indian","irish","jewish","mature","mexican","oriental","polish","puertorican","retire","retired","retiree","single","stable","white"};;
     const string EthnicQualifierWords[17] = {"people","person","community","neighborhood","friendly","area","subdivision","crowd","family","folk","customer","individual","association","district","section","suburb","territory"};
 
+    //pull file into string
+    GetFile(TestString);
+
     //test for single flagged words
     for (int i = 0; i < 64; i++) 
     {
